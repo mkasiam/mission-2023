@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.first-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+
+}
+.text-design{
+    width: 600px;
+}
+.SpColor{
+    color: #FFA500;
+}
+.image-pic{
+   width: 510px;
+   height: 450px;
+}
+.btn{
+    background-color: #FFA500;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.High{
+    font-size: 62px;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.discription{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 10px;   
+    font-weight: 1000px; 
+}
+.Second-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+.SmallBox{
+    width: 300px;
+    height: 420px;
+    background-color: #EDF5F6;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+
+}
+.icon-pic{
+    width: 150px;
+    height: 120px;
+}
+.icon-image{
+    margin-left:75px;
+}
+.text-content{
+    margin-top: 50px;
+    pad: 20px;
+}
+.Speffect{
+    font-size: 24px;
+    font-weight: bolder;
+}
+.SmallBox2{
+    background-color: #FFEEEE;
+}
+.SmallBox3{
+    background:#FFF4D6;
+}
+.third-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.circleLogo{
+    width: 250px; 
+    position: absolute;
+    margin-top: 130px;
+ 
+}
+.coding-pic{
+    width: 510px;
+    height: 510px;
+    position: relative;
+    left: 60px;
+}
+.Second-portion{
+    width: 500px;
+}
+.app-image{
+    width: 350px;
+    height: 600px;
+}
+.footer{
+    background-color:#0B0D17;
+    padding: 20px;
+}
+.footer-text{
+    color:white;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+
+}
